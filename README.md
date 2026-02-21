@@ -41,3 +41,4 @@ The development of a unique data format `aam` and the accompanying tools to work
 * **LinkedIn:** Nope, not here right now 😅
 
 > *"I'm constantly learning and pushing the boundaries of what I can build."*
+Portolio: ininids.in.rs
