@@ -1,44 +1,41 @@
-# ⚡ Hello, I'm Nikita!
+# Никита
 
-**Developer from Tashkent | Rustacean | Systems & Desktop Software**
+Разработчик из Ташкента. В основном пишу на Rust, интересуюсь системным программированием, GameDev и тем, как всё устроено на низком уровне.
 
-Welcome to my GitHub! I am a developer who loves looking under the hood of technology, squeezing the maximum performance out of hardware, and building fast, reliable tools from scratch.
+Сейчас работаю над собственным игровым движком на Rust и инструментами вокруг собственного формата конфигураций.
 
-### 📖 My Story: From Discord Bots to Custom Engines
+## Проекты
 
-My adventure began on Discord, where I randomly came across a guy making his own bots. I got curious about how it all worked under the surface. I started with BDFD (Bot Designer for Discord), found the largest BDFD server in the Russian-speaking community, and actually ended up making friends there because I accidentally won their most expensive giveaway. 
+### rustgames
 
-After that, I moved on to working with Python. However, I eventually got bored with that ecosystem and wanted a deeper challenge. This pushed me to evolve, dive into lower-level programming, and become the developer I am today.
+Игровой движок на Rust. Пока в разработке.
 
----
+- Рендеринг на `wgpu`, окна и ввод через `winit`
+- Собственные системы текстур, состояний и текста
+- Задача — лучше понять графический конвейер, GPU и производительность
 
-### 🛠️ Technologies & Skills
+### aam
 
-* **Languages:** Rust, SQL
-* **Systems & Desktop:** Tauri, wgpu, winit
-* **Databases:** SQLite
-* **Interests:** High-end PC building, system customization, low-level programming, software architecture.
+`aam` (Abstract Alias Mapping) — собственный формат конфигураций и инструменты для работы с ним.
 
----
+- Парсинг и сериализация данных
+- Написан на Rust
+- Репозиторий: [aam-rs](https://github.com/INiNiDS/aam-rs)
 
-### 🚀 My Projects
+## Чем занимаюсь
 
-#### 🎮 rustgames `[In Development]` `[Private Repository]`
-My most ambitious project to date: a custom game engine written entirely in **Rust**.
-* Built on top of `wgpu` and `winit` for low-level control over windows and graphics rendering.
-* Features custom texture rendering, state management, and specialized text rendering (including a custom "typewriter" effect).
-* Focused on maximum performance, memory safety, and a deep understanding of how the GPU operates.
+- Rust, SQL
+- `wgpu`, `winit`, Tauri
+- SQLite
+- Linux, настройка системы, сборка ПК
+- Разработка игр и графики
 
-#### 📦 aam — Custom Data Format
-The development of a unique data format `aam` and the accompanying tools to work with it. This project demonstrates a deep understanding of data structures, serialization, parsing, and file architecture.
-* [aam-rs Repository](https://github.com/INiNiDS/aam-rs)
+## Hackatime
 
----
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=30048&api_domain=hackatime.hackclub.com&theme=monokai&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
-### 📫 Let's Connect
-* **Email:** [ininids@ininids.in.rs](mailto:ininids@ininids.in.rs)
-* **Telegram:** [@INiNiDS](https://t.me/INiNiDS)
-* **LinkedIn:** Nope, not here right now 😅
+## Контакты
 
-> *"I'm constantly learning and pushing the boundaries of what I can build."*
-Portolio: ininids.in.rs
+- Telegram: [@INiNiDS](https://t.me/INiNiDS)
+- Email: [ininids@ininids.in.rs](mailto:ininids@ininids.in.rs)
+- Сайт: [ininids.in.rs](https://ininids.in.rs)
