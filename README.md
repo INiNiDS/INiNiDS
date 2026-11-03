@@ -1,41 +1,41 @@
-# Никита
+# Nikita
 
-Разработчик из Ташкента. В основном пишу на Rust, интересуюсь системным программированием, GameDev и тем, как всё устроено на низком уровне.
+Developer from Tashkent. I mostly write Rust and enjoy systems programming, game development, and figuring out how things work under the hood.
 
-Сейчас работаю над собственным игровым движком на Rust и инструментами вокруг собственного формата конфигураций.
+I'm currently working on a game engine in Rust and tools for my own configuration format.
 
-## Проекты
+## Projects
 
 ### rustgames
 
-Игровой движок на Rust. Пока в разработке.
+A game engine written in Rust. Still in development.
 
-- Рендеринг на `wgpu`, окна и ввод через `winit`
-- Собственные системы текстур, состояний и текста
-- Задача — лучше понять графический конвейер, GPU и производительность
+- Rendering with `wgpu`, windowing and input with `winit`
+- Custom texture, state, and text systems
+- A way to learn more about the graphics pipeline, GPUs, and performance
 
 ### aam
 
-`aam` (Abstract Alias Mapping) — собственный формат конфигураций и инструменты для работы с ним.
+`aam` (Abstract Alias Mapping) is my own configuration format and a set of tools for working with it.
 
-- Парсинг и сериализация данных
-- Написан на Rust
-- Репозиторий: [aam-rs](https://github.com/INiNiDS/aam-rs)
+- Data parsing and serialization
+- Written in Rust
+- Repository: [aam-rs](https://github.com/INiNiDS/aam-rs)
 
-## Чем занимаюсь
+## Tools and interests
 
 - Rust, SQL
 - `wgpu`, `winit`, Tauri
 - SQLite
-- Linux, настройка системы, сборка ПК
-- Разработка игр и графики
+- Linux, system customization, and PC building
+- Game development and graphics programming
 
 ## Hackatime
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=30048&api_domain=hackatime.hackclub.com&theme=monokai&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
-## Контакты
+## Contact
 
 - Telegram: [@INiNiDS](https://t.me/INiNiDS)
 - Email: [ininids@ininids.in.rs](mailto:ininids@ininids.in.rs)
-- Сайт: [ininids.in.rs](https://ininids.in.rs)
+- Website: [ininids.in.rs](https://ininids.in.rs)
