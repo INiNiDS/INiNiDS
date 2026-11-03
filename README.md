@@ -1,26 +1,36 @@
 # Nikita
 
-Developer from Tashkent. I mostly write Rust and enjoy systems programming, game development, and figuring out how things work under the hood.
+Developer from Tashkent. I mostly write Rust and work on game development, developer tools, and systems programming.
 
-I'm currently working on a game engine in Rust and tools for my own configuration format.
+I like building things from scratch and understanding how they work under the hood.
 
 ## Projects
 
-### rustgames
+### Matesha IDE
 
-A game engine written in Rust. Still in development.
+An IDE for math, written in Rust.
 
-- Rendering with `wgpu`, windowing and input with `winit`
-- Custom texture, state, and text systems
-- A way to learn more about the graphics pipeline, GPUs, and performance
+- Repository: [mateshaide](https://github.com/INiNiDS/mateshaide)
 
-### aam
+### LUNAR-HAL
 
-`aam` (Abstract Alias Mapping) is my own configuration format and a set of tools for working with it.
+A 3D procedural space exploration game built with Rust and WebGPU. It includes procedural planets, AI-generated biomes, rocket landing, and space flight.
 
-- Data parsing and serialization
-- Written in Rust
-- Repository: [aam-rs](https://github.com/INiNiDS/aam-rs)
+- Repository: [lunar-hal](https://github.com/INiNiDS/lunar-hal)
+
+### AI Chess Arena
+
+A chess arena and benchmark for AI models. It uses Glicko-2 ratings and also has a chaotic "gaslight" mode.
+
+- Repository: [aichess](https://github.com/INiNiDS/aichess)
+
+### AAM
+
+AAM (Abstract Alias Mapping) is my own configuration format and a set of tools around it: a Rust library, CLI, documentation, and editor extensions.
+
+- Library: [aam-rs](https://github.com/INiNiDS/aam-rs)
+- CLI: [aam-cli](https://github.com/INiNiDS/aam-cli)
+- Documentation: [aam](https://github.com/INiNiDS/aam)
 
 ## Tools and interests
 
@@ -28,7 +38,7 @@ A game engine written in Rust. Still in development.
 - `wgpu`, `winit`, Tauri
 - SQLite
 - Linux, system customization, and PC building
-- Game development and graphics programming
+- Game development, graphics programming, and AI tools
 
 ## Hackatime
 
